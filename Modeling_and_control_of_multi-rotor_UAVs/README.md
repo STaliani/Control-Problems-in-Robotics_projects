@@ -1,5 +1,5 @@
 Executable trajectories:
-|![immagine](https://github.com/STaliani/Control-Problems-in-Robotics_projects/assets/104269855/0d095491-038b-4d14-a78e-6e184e71a3c8)|![immagine](https://github.com/STaliani/Control-Problems-in-Robotics_projects/assets/104269855/d676d221-5053-4d8c-89de-0ab653fff6ea)|![immagine](https://github.com/STaliani/Control-Problems-in-Robotics_projects/assets/104269855/fabfe2b5-33f4-4d7f-ad1e-1051aff6c9b3)|
+|![hovering](https://github.com/STaliani/Control-Problems-in-Robotics_projects/assets/85567829/8713a5ac-b500-447e-b7bd-fa949f887568)|![linear_path](https://github.com/STaliani/Control-Problems-in-Robotics_projects/assets/85567829/7d585dc5-cb6e-4234-b6b3-d31e1396e1a8)|![spyral_path](https://github.com/STaliani/Control-Problems-in-Robotics_projects/assets/85567829/1b7748ee-5d7d-427a-b3ee-3517e742396b)
 |--|--|--|
 
 

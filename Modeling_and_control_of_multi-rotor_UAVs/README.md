@@ -1,4 +1,4 @@
-Executable trajectories:
+## Executable trajectories:
 |![hovering](https://github.com/STaliani/Control-Problems-in-Robotics_projects/assets/85567829/8713a5ac-b500-447e-b7bd-fa949f887568)|![linear_path](https://github.com/STaliani/Control-Problems-in-Robotics_projects/assets/85567829/7d585dc5-cb6e-4234-b6b3-d31e1396e1a8)|![spyral_path](https://github.com/STaliani/Control-Problems-in-Robotics_projects/assets/85567829/1b7748ee-5d7d-427a-b3ee-3517e742396b)
 |--|--|--|
 
